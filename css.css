@@ -1,6 +1,6 @@
 * { box-sizing: border-box; }
 body {
-  font: 20px Arial;
+  font: 20px fontfamily;
 }
 .autocomplete {
   /*the container must be positioned relative:*/
