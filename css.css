@@ -18,7 +18,7 @@ input[type=text] {
   width: 100%;
 }
 input[type=submit] {
-  background-color: red;
+  background-color: black;
   color: #fff;
 }
 .autocomplete-items {
